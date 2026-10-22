@@ -1,0 +1,11 @@
+{
+    "name": "com.tw.interaction-prompts",
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "displayName": "Interaction Prompts",
+    "description": "Interaction extension for displaying interactive context to the user.",
+    "author": {
+        "name": "Tom Wilhelm",
+        "url": "https://www.tom-wilhelm.com"
+    }
+}

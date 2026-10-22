@@ -1,0 +1,22 @@
+{
+    "name": "TW.Interaction.Prompts",
+    "rootNamespace": "TW.Interaction.Prompts",
+    "references": [
+        "GUID:7db14b29c6bcae447b9251e7c20a3615",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:00018aac39b2d8b43a1981a2513e0cab",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:76c7db5f22bf8aa4cbdc5fe7244b787c",
+        "GUID:e63b24c46a5ccc346addbc3661e15b74"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
